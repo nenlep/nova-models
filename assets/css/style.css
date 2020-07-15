@@ -37,6 +37,7 @@ body::before{
   background-color: #f84c7a;
   animation: slider 1s .4s 1 forwards;
 }
+
 @keyframes slider{
   to{
       transform: translateY(-100%);
